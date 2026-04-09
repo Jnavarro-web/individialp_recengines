@@ -1,7 +1,7 @@
 # Recommender System Analysis & Implementation
 
-**Student ID:** 12345  
-**Last Name:** Garcia  
+**Student ID:** 16255 
+**Last Name:** Navarro 
 **Dataset:** TMDB 5000 Movies  
 **Date:** April 2026  
 
